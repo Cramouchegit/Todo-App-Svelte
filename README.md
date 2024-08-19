@@ -105,3 +105,7 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+
+# Demo
+
+https://todo-app-svelte-kit.vercel.app/
